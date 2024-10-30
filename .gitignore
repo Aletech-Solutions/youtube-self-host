@@ -1,0 +1,6 @@
+# Ignore all node_modules directories
+**/node_modules/
+# Ignore all videos directories
+**/videos/
+# Ignore all metadata directories
+**/thumbnails/
